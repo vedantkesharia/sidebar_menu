@@ -1,12 +1,12 @@
 import React from 'react'
 
-const Messages = () => {
+const Guide = () => {
   return (
     <div>
-      Messages
+      Guide
 
     </div>
   )
 }
 
-export default Messages
+export default Guide

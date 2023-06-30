@@ -21,13 +21,13 @@ const routes=[
         icon: <FaUser />,
       },
       {
-        path: "/messages",
-        name: "Messages",
+        path: "/information",
+        name: "Information",
         icon: <MdMessage />,
       },
       {
-        path: "/analytics",
-        name: "Analytics",
+        path: "/guide",
+        name: "Guide",
         icon: <BiAnalyse />,
       },
       {
